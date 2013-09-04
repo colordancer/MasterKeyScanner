@@ -11,6 +11,3 @@
 *.lai
 *.la
 *.a
-
-debug/
-*.sdf
